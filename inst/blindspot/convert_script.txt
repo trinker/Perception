@@ -1,0 +1,2 @@
+cd C:\Users\trinker\Desktop\blindspot
+convert -delay 50 -loop 0 imgs/*.png blind_spot.gif
