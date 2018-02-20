@@ -14,4 +14,4 @@ of its existence. The .gif below exposes this blind spot (based on:
 3.  Notice that the at a certain point the red dot disappears and then
     reappears?
 
-[](figures/blind_spot.gif)
+![](figures/blind_spot.gif)

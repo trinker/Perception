@@ -19,7 +19,7 @@ There is a blind spot on the retina where humans cannot perceive images.  The br
 1. Now close your right eye and focus on the + sign.  
 1. Notice that the at a certain point the red dot disappears and then reappears?
 
-[](figures/blind_spot.gif)
+![](figures/blind_spot.gif)
 
 
 
